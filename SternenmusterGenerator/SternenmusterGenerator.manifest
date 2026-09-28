@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "script",
+    "author": "Markus Wersig",
+    "description": {
+        "": "Erzeugt ein zufaelliges Sternenmuster (Punkte, Sterne, Galaxien, Saturne) im Rumpf der parametrischen Teelicht-Rakete."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

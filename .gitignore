@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+*.log
+test-results/
+playwright-report/
+cookies.txt
